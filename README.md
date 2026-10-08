@@ -9,3 +9,6 @@ TwoSum
 2 problems from Top 150 interview questions
 26 Remove Element
 27 removeDuplicates
+
+# 08-10-2026
+150.Majority Element, 
