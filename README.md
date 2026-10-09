@@ -11,4 +11,9 @@ TwoSum
 27 removeDuplicates
 
 # 08-10-2026
-150.Majority Element, 
+150.Majority Element
+
+# 09-10-2026
+index_of_first_occur_in_string
+longest_common_prefix
+search_insert_position
